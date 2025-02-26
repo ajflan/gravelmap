@@ -3,9 +3,9 @@
 </div>
 <h1 align="center"">Organic Maps</h1>
 
-[Organic Maps](https://organicmaps.app) is a free Android & iOS offline maps app for travellers, tourists, drivers, hikers, and cyclists.
-It uses crowd-sourced [OpenStreetMap](https://www.openstreetmap.org) data and is developed with love by the creators of **MapsWithMe** (later renamed to **Maps.Me**) and by our community.
-No ads, no tracking, no data collection, no crapware. Your [donations](https://organicmaps.app/donate/) and positive reviews motivate and inspire us, thanks ❤️!
+[GravelMap](https://gravelmap.app) is a free Android & iOS offline maps app for Adventure Motorcyclists and Gravel bike Bikepackers.
+It uses crowd-sourced [OpenStreetMap](https://www.openstreetmap.org) data and is developed with love by the creators of **Organic Maps**, **MapsWithMe** (later renamed to **Maps.Me**) and us.
+No ads, no tracking, no data collection, no crapware. 
 
 [<img src="docs/badges/apple-appstore.png" alt="App Store" width="160">](https://apps.apple.com/app/organic-maps/id1567437057)
 [<img src="docs/badges/google-play.png" alt="Google Play" width="160">](https://play.google.com/store/apps/details?id=app.organicmaps)
